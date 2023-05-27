@@ -8,7 +8,13 @@
 ## Motivación
 <h1>
 </h1>
+Colombia es un país con una amplia vocación agrícola debido a que cuenta con una amplia extensión territorial para la realización de estas actividades y cuenta con diferentes pisos térmicos y una gran diversidad lo que hace que el campo y la agricultura una oportunidad para no solo abastecer el mercado interno, si no además explorar los mercados internacionales con sus productos. 
 
+Por este motivo es de vital importancia entender las dinámicas de como funciona el campo colombiano asi como las debilidades, fortalezas y oportunidades que hay en busca de mejorar las oportunidades de ingreso de los campesinos y la posibilidad de generar más cadenas de valor agregado en busca de sustituir productos que normalmente son importados y poder abrir nuevas oportunidades de mercado. 
+
+Por otro lado los precios de los alimentos representan un rubro muy importante dentro de los gastos de las familias de bajos recursos o en condición de vulnerabilidad por lo tanto en este trabajo se busca conocer las dinámicas de los precios de los alimentos en las centrales mayoristas. 
+
+Este trabajo es una primera aproximación debido a que le faltan varios pasos para conectar los diferentes temas que se trabajan aquí y otros adicionales como es el precio de los insumos agrícolas esenciales en la producción y que tienen una gran influencia en los precios.
 ## Datos y métodos
 <h1>
 </h1>
@@ -70,10 +76,10 @@ Por otro lado, al revisar el comportamiento de los precios a pesar de que las se
 </div>
 <div style="display: flex; justify-content: space-around;">
   <img src="IMG/Antioquia.png" alt="Imagen 3" width="350" height="150">
-  <img src="IMG/Central.png" alt="Imagen 4" width="350" height="150">
+  <img src="IMG/central.png" alt="Imagen 4" width="350" height="150">
 </div>
 <div style="display: flex; justify-content: center;">
-  <img src="IMG/Santanderes.png" alt="Imagen 5" width="350" height="150">
+  <img src="IMG/santanderes.png" alt="Imagen 5" width="350" height="150">
 </div>
 
 
@@ -86,3 +92,8 @@ Nota: Para observar los mapas y gráficas en mayor detalle se puede revisar el s
 + Realizar la labor pero no desde los reportes, desde los boletines diarios donde se hacen dos rondas de precios. Se encuentra información más completa de una gama mayor de productos. 
 
 + Tratar de estimar un panel con los precios probando cointegración y luego estimar una proyección de los precios para predecir como evolucionarán en el futuro cercano.
+
++ Análisis de los precios de los insumos.
+
++ Buscar más información sobre la agroindustria y la falta de cadenas de valor agregado en la producción agrícola.
+
